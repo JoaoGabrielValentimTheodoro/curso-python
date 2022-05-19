@@ -1,4 +1,4 @@
-# Curso de Python avançado
+# Curso de Python Avançado
 
 - Aprender a configurar ambiente em python
     - VSCode
