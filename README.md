@@ -14,3 +14,10 @@
         - Cells Markdown
         - Cells Code
         - Line in cells
+- Aprendendo sobre variáveis e tipos
+    - Use dir() function
+    - Use type() function
+    - Use Decimal class
+    - Use (+ / // * ** %)
+    - Use True and False
+    - Logic type or bool
