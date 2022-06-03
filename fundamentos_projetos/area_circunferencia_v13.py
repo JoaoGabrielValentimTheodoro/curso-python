@@ -17,7 +17,7 @@ def circulo(raio):
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         help()
-        # sys.exit(errno.EPERM)
+        sys.exit(errno.EPERM)
     else:
         raio = sys.argv[1]
         area_circunferencia = circulo(raio)
