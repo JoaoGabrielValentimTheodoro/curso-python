@@ -11,7 +11,7 @@ class TerminalColor:
 
 def help():
     print("É necessaŕio informar o raio do circulo.")
-    print(f"{sys.argv[0][2:-4]} <raio>")
+    print(f"{sys.argv[0][2:-3]} <raio>")
 
 
 def circulo(raio):
