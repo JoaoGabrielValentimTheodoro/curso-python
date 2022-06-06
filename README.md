@@ -21,3 +21,6 @@
     - Use (+ / // * ** %)
     - Use True and False
     - Logic type or bool
+
+- Uso do sys.argv
+- For, While e IF, ELSE e ELSE IF
