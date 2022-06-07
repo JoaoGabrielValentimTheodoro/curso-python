@@ -24,3 +24,4 @@
 
 - Uso do sys.argv
 - For, While e IF, ELSE e ELSE IF
+- Manipulação de arquivos
